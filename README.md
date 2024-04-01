@@ -8,7 +8,7 @@
 * Structured Output: The API response presents tasks in a tabular format for easy analysis or integration with spreadsheets.
 
 ## Getting Started
-* Clone the Repository: git clone https://github.com/your-username/go-task-tracker
+* Clone the Repository: git clone https://github.com/RawadAltagiuru/go-task-tracker
 * Install Dependencies: go mod download
 * Configure Credentials (Gemini API key, Google API Credetentials, Google Sheets ID): Refer to the code for instructions if necessary.
 * Run the Application: go run main.go
